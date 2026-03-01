@@ -63,6 +63,13 @@ We welcome collaborators, contributors, and dreamers from all backgrounds!
 
 ---
 
-### Together, let’s build systems that serve everyone.
+## Why This Project Exists
 
-*Feel free to personalize this README with your name, contact info, or specific project plans!*
+This initiative was born from lived experience —
+from witnessing inequality across borders,
+financial exclusion, and systemic imbalance.
+
+It seeks to explore how inclusive, circular,
+and community-centered economic systems
+can be designed in both digital and physical spaces.
+
