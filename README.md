@@ -51,7 +51,7 @@ We believe in shifting from profit-only models to people- and planet-centered sy
 
 We welcome collaborators, contributors, and dreamers from all backgrounds!
 
-- **Open Issues:** Check the [issue tracker](./issues) for ways to help.
+- **Open Issues:** Check the [issue tracker](https://github.com/Shirendev1/Hello-World/issues) for ways to help.
 - **Suggest Ideas:** Open a discussion or issue with your proposal.
 - **Spread the Word:** Share this project with your community.
 
